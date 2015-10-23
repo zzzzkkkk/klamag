@@ -3556,6 +3556,12 @@
 
 /* Footer */
 
+	#footer #map {
+                width: 600px;
+                height: 300px;
+				margin-right: 30px;
+            }
+
 	#footer .inner {
 		padding: 5em 0 3em 0 ;
 		display: -moz-flex;
