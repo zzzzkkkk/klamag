@@ -3049,6 +3049,14 @@
 			transform: translateY(0);
 			opacity: 1;
 			margin: 0 0 1.3em 0;
+			
+		}
+		#banner .image {
+			text-indent:-999px;
+			overflow: hidden;
+			width: 327px;
+    		height: 327px;
+			display: block;
 		}
 
 			#banner .logo .icon {
